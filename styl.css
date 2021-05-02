@@ -1,0 +1,441 @@
+th{
+    
+    font-size: 20px;
+    text-align: right;
+    height: 10px;
+    width: 1350px;
+   }
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   tr12{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color: rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 50px;
+    top: 300px;
+
+}
+
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p{
+       color: brown;
+       position: absolute;
+       left: 1270px;
+       top: 1px;
+   }
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p1{
+    position: absolute;
+    left: 1190px;
+    top: 30px;
+
+   }
+  /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p2{
+    position: absolute;
+    left: 490px;
+    top: 30px;
+    font-size: 18px;
+
+   }
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p3{
+    position: absolute;
+    left: 443px;
+    top: 30px;
+    font-size: 18px;
+
+   }
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p4{
+    position: absolute;
+    left: 350px;
+    top: 30px;
+font-size: 18px;
+   }
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p5{
+    position: absolute;
+    left: 290px;
+    top: 30px;
+    font-size: 18px;
+
+   }
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p6{
+    position: absolute;
+    left: 210px;
+    top: 30px;
+    font-size: 18px;
+
+   }
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p7{
+    position: absolute;
+    left: 150px;
+    top: 30px;
+    font-size: 18px;
+
+   }
+   /*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p8{
+    border-style:inset;
+    width: 450px;
+    height: 49px;
+    position: absolute;
+    left: 417px;
+    top: 120px;
+font-size: 25px;
+text-align: left;
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+p10{
+    font-size: 17px;
+    position: absolute;
+    top: 255px;
+    color: dimgray;
+}
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+   p44{
+    position: absolute;
+    left: 210px;
+    top: 20px;
+    color: rgb(20, 17, 17);
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+p45{
+    position: absolute;
+    left: 225px;
+    top: 110px;
+    color: dimgray;
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+p46{
+    width: 200px;
+    position: absolute;
+    left: 210px;
+    top: 140px;
+    color:  dimgray;
+    
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+p47{
+    width: 200px;
+    position: absolute;
+    left: 225px;
+    top: 20px;
+}   
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+p48{
+    width: 200px;
+    position: absolute;
+    left: 240px;
+    top:  110px;
+    color:  dimgray;
+    
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+p49{
+    width: 200px;
+    position: absolute;
+    left: 175px;
+    top: 140px;
+    color:  dimgray;
+    
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+p50{
+    width: 200px;
+    position: absolute;
+    left: 190px;
+    top: 15px;
+    
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+p51{
+    width: 200px;
+    position: absolute;
+    left: 235px;
+    top: 110px;
+    color:  dimgray;
+    
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+p52{
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 140px;
+    color:  dimgray;
+    
+}
+
+
+ /*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+ table{
+    
+    width: 400px;
+    position: absolute;
+    left: 1170px;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+table3{
+    border-style:inset;
+    width: 150px;
+    height: 49px;
+    text-align: center;
+    position: absolute;
+    left: 870px;
+    top: 120px;
+font-size: 25px;
+}
+ /*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+
+button{
+    background-color: brown;
+    font-size: 18px;
+    text-align:center;
+    color: cornsilk;
+    padding: 5px 5px 5px 5px;
+    border-radius: 9px;
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button3{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 927px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button4{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 820px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button5{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 715px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button6{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 655px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button7{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 595px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button8{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 530px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button9{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 425px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button10{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 363px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button11{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 300px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+    color: brown;
+
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button12{
+    font-size: 17px;
+    border-style:inset;
+    border-color: brown;
+    color: brown;
+    border-width: 1.5px;
+    border-radius: 19px;
+    position: absolute;
+    left: 225px;
+    top: 180px;
+    padding: 0px 5px 0px 5px;
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button21{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color:rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 410px;
+    top: 300px;  
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button22{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color: rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 770px;
+    top: 300px; 
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button23{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color:rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 410px;
+    top: 500px;  
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button24{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color: rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 770px;
+    top: 500px; 
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button25{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color: rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 50px;
+    top: 500px; 
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button26{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color:rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 410px;
+    top: 700px;  
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button27{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color: rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 770px;
+    top: 700px; 
+}
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+button28{
+    width: 320px;
+    height: 170px;
+    border-style:solid;
+    border-color: rgb(211, 194, 194);
+    border-width: 1.5px;
+    position: absolute;
+    left: 50px;
+    top: 700px; 
+}
+
